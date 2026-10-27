@@ -1,0 +1,298 @@
+1
+1
+100
+Costa Rica
+1
+100
+Costa Rica Duplicada
+2
+100
+101
+San Jose
+2
+100
+101
+San Jose Duplicada
+2
+999
+102
+Ciudad Sin Pais
+5
+200
+Cardiologia
+Corazon
+5
+200
+Cardiologia Duplicada
+Corazon Duplicado
+9
+D01
+Gripe
+Fiebre
+9
+D01
+Gripe Duplicada
+Fiebre Duplicada
+10
+300
+Acetaminofen
+Pastilla
+1500
+10
+300
+Acetaminofen Dup
+Pastilla Dup
+2000
+7
+400
+1
+1
+1
+0
+7
+400
+2
+2
+2
+1
+3
+500
+Juan Perez
+2000-01-01
+88888888
+100
+101
+juan@test.com
+3
+500
+Juan Duplicado
+2000-01-01
+88888888
+100
+101
+juan2@test.com
+3
+501
+Pedro Error
+2000-01-01
+77777777
+999
+999
+pedro@test.com
+4
+600
+Dr. House
+99999999
+dr@test.com
+200
+4
+600
+Dr. Duplicado
+99999999
+dr2@test.com
+200
+4
+601
+Dr. Error Esp
+99999999
+error@test.com
+999
+8
+700
+500
+400
+600
+2026-10-01
+2026-10-05
+Dolor
+8
+700
+500
+400
+600
+2026-10-01
+2026-10-05
+Dolor Duplicado
+8
+701
+999
+400
+600
+2026-10-01
+2026-10-05
+Error Paciente
+6
+800
+500
+600
+200
+2026-10-10
+10:00
+Control
+0
+6
+800
+500
+600
+200
+2026-10-10
+10:00
+Control Duplicado
+0
+6
+801
+999
+600
+200
+2026-10-10
+10:00
+Error Paciente Cita
+0
+0
+2
+1
+100
+1
+999
+2
+100
+101
+2
+999
+101
+3
+100
+101
+500
+3
+999
+999
+500
+4
+200
+600
+4
+999
+600
+5
+200
+5
+999
+6
+500
+600
+800
+6
+999
+600
+800
+7
+400
+7
+999
+8
+500
+400
+700
+8
+999
+400
+700
+9
+D01
+9
+D99
+10
+300
+10
+999
+0
+3
+1
+100
+Costa Rica Modificada
+1
+999
+Pais Error Mod
+2
+100
+101
+San Jose Modificada
+2
+999
+101
+Ciudad Error Mod
+3
+100
+101
+500
+11112222
+nuevo@test.com
+3
+999
+999
+500
+0000
+error@test.com
+4
+200
+600
+22223333
+drmod@test.com
+4
+999
+600
+0000
+errordr@test.com
+5
+200
+Corazon Modificado
+5
+999
+Especialidad Error Mod
+6
+500
+600
+800
+Control Modificado
+1
+6
+999
+600
+800
+Cita Error Mod
+1
+7
+400
+1
+7
+999
+1
+8
+500
+400
+700
+Dolor Modificado
+8
+999
+400
+700
+Hosp Error Mod
+9
+D01
+Fiebre Modificada
+9
+D99
+Diag Error Mod
+10
+300
+Acetaminofen Mod
+Pastilla Modificada
+2500
+10
+999
+Tratamiento Error Mod
+Desc Error
+0
+0
+5

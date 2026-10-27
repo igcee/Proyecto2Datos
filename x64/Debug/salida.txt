@@ -1,0 +1,1132 @@
+------------------ chunches paises
+Pais de nombre: Costa Rica con codigo: 506 insertado correctamente
+Pais de nombre: Panamá con codigo: 507 insertado correctamente
+Pais de nombre: Nicaragua con codigo: 505 insertado correctamente
+Pais de nombre: El Salvador con codigo: 503 insertado correctamente
+Pais de nombre: Guatemala con codigo: 502 insertado correctamente
+Pais de nombre: Honduras con codigo: 504 insertado correctamente
+Pais de nombre: México con codigo: 52 insertado correctamente
+Pais de nombre: Colombia con codigo: 57 insertado correctamente
+Pais de nombre: Venezuela con codigo: 58 insertado correctamente
+Pais de nombre: Perú con codigo: 51 insertado correctamente
+------------------ chunches ciudades
+Ciudad de nombre: San José con codigo: 1 con codigo de pais: 506 insertado correctamente
+Ciudad de nombre: Alajuela con codigo: 2 con codigo de pais: 506 insertado correctamente
+Ciudad de nombre: Cartago con codigo: 3 con codigo de pais: 506 insertado correctamente
+Ciudad de nombre: Heredia con codigo: 4 con codigo de pais: 506 insertado correctamente
+Ciudad de nombre: Liberia con codigo: 5 con codigo de pais: 506 insertado correctamente
+Ciudad de nombre: Ciudad de Panamá con codigo: 1 con codigo de pais: 507 insertado correctamente
+Ciudad de nombre: Colón con codigo: 2 con codigo de pais: 507 insertado correctamente
+Ciudad de nombre: David con codigo: 3 con codigo de pais: 507 insertado correctamente
+Ciudad de nombre: Santiago con codigo: 4 con codigo de pais: 507 insertado correctamente
+Ciudad de nombre: Managua con codigo: 1 con codigo de pais: 505 insertado correctamente
+Ciudad de nombre: León con codigo: 2 con codigo de pais: 505 insertado correctamente
+------------------ chunches pacientes
+No existe ninguna ciudad de codigo: 3 en el pais de codigo: 56
+No existe ninguna ciudad de codigo: 2 en el pais de codigo: 1
+No existe ninguna ciudad de codigo: 4 en el pais de codigo: 52
+Paciente de nombre: José López Martínez con id: 1004 insertado correctamente
+Paciente de nombre: Jorge Solano Brenes con id: 1005 insertado correctamente
+Paciente de nombre: Isabel Fernández Quesada con id: 1006 insertado correctamente
+No existe ninguna ciudad de codigo: 3 en el pais de codigo: 502
+No existe ninguna ciudad de codigo: 3 en el pais de codigo: 1
+No existe ninguna ciudad de codigo: 3 en el pais de codigo: 58
+No existe ninguna ciudad de codigo: 1 en el pais de codigo: 55
+No existe ninguna ciudad de codigo: 2 en el pais de codigo: 52
+No existe ninguna ciudad de codigo: 1 en el pais de codigo: 1
+No existe ninguna ciudad de codigo: 1 en el pais de codigo: 58
+No existe ninguna ciudad de codigo: 2 en el pais de codigo: 51
+------------------ chunches especialidades
+Especialidad de nombre: Cardiología con codigo: 1 insertada correctamente
+Especialidad de nombre: Pediatría con codigo: 2 insertada correctamente
+Especialidad de nombre: Medicina General con codigo: 3 insertada correctamente
+Especialidad de nombre: Dermatología con codigo: 4 insertada correctamente
+Especialidad de nombre: Neurología con codigo: 5 insertada correctamente
+Especialidad de nombre: Ortopedia con codigo: 6 insertada correctamente
+Especialidad de nombre: Ginecología con codigo: 7 insertada correctamente
+Especialidad de nombre: Oftalmología con codigo: 8 insertada correctamente
+------------------ chunches medicos
+Medico de nombre: Dra. Carlos Mora Jiménez con id: 101 insertado correctamente
+Medico de nombre: Dr. Carmen Quesada Gómez con id: 102 insertado correctamente
+Medico de nombre: Dr. Pedro Jiménez Salas con id: 103 insertado correctamente
+Medico de nombre: Dr. Gabriel Quesada Rojas con id: 104 insertado correctamente
+Medico de nombre: Dr. Carlos Martínez Rojas con id: 105 insertado correctamente
+Medico de nombre: Dr. Esteban Ramírez Fernández con id: 106 insertado correctamente
+Medico de nombre: Dr. Camila Brenes Mora con id: 107 insertado correctamente
+Medico de nombre: Dr. José Solano Gómez con id: 108 insertado correctamente
+Medico de nombre: Dra. Camila Mena Vargas con id: 109 insertado correctamente
+Medico de nombre: Dra. Esteban Castro Gómez con id: 110 insertado correctamente
+------------------ chunches citas
+ No existe ningun paciente de id: 1044
+ No existe ningun paciente de id: 1038
+ No existe ningun paciente de id: 1047
+ No existe ningun paciente de id: 1037
+ No existe ningun paciente de id: 1034
+ No existe ningun paciente de id: 1040
+ No existe ningun paciente de id: 1043
+ No existe ningun paciente de id: 1013
+ No existe ningun paciente de id: 1036
+ No existe ningun paciente de id: 1030
+ No existe ningun paciente de id: 1048
+ No existe ningun paciente de id: 1049
+ No existe ningun paciente de id: 1003
+ No existe ningun paciente de id: 1041
+ No existe ningun paciente de id: 1026
+ No existe ningun paciente de id: 1050
+Cita de id: 17 de id paciente: 1004 de id medico: 103 de id especialidad: 3 de fecha: 29/11/2026 de motivo: Mareos de estado: 0 insertada correctamente
+ No existe ningun paciente de id: 1030
+ No existe ningun paciente de id: 1036
+ No existe ningun paciente de id: 1049
+ No existe ningun paciente de id: 1018
+ No existe ningun paciente de id: 1022
+ No existe ningun paciente de id: 1045
+ No existe ningun paciente de id: 1035
+ No existe ningun paciente de id: 1050
+ No existe ningun paciente de id: 1001
+ No existe ningun paciente de id: 1032
+ No existe ningun paciente de id: 1022
+ No existe ningun paciente de id: 1026
+ No existe ningun paciente de id: 1030
+ No existe ningun paciente de id: 1030
+ No existe ningun paciente de id: 1017
+ No existe ningun paciente de id: 1015
+ No existe ningun paciente de id: 1002
+ No existe ningun paciente de id: 1037
+ No existe ningun paciente de id: 1039
+ No existe ningun paciente de id: 1038
+ No existe ningun paciente de id: 1046
+ No existe ningun paciente de id: 1045
+ No existe ningun paciente de id: 1035
+ No existe ningun paciente de id: 1027
+------------------ chunches habitaciones
+Habitacion de id: 101 de numero: 101 de piso: Piso 1 de tipo: 2 de estado: 0 insertada correctamente
+Habitacion de id: 102 de numero: 102 de piso: Piso 1 de tipo: 1 de estado: 0 insertada correctamente
+Habitacion de id: 103 de numero: 103 de piso: Piso 1 de tipo: 1 de estado: 0 insertada correctamente
+Habitacion de id: 104 de numero: 104 de piso: Piso 1 de tipo: 2 de estado: 1 insertada correctamente
+Habitacion de id: 105 de numero: 105 de piso: Piso 1 de tipo: 1 de estado: 0 insertada correctamente
+Habitacion de id: 201 de numero: 201 de piso: Piso 2 de tipo: 2 de estado: 0 insertada correctamente
+Habitacion de id: 202 de numero: 202 de piso: Piso 2 de tipo: 1 de estado: 0 insertada correctamente
+Habitacion de id: 203 de numero: 203 de piso: Piso 2 de tipo: 1 de estado: 1 insertada correctamente
+Habitacion de id: 204 de numero: 204 de piso: Piso 2 de tipo: 1 de estado: 1 insertada correctamente
+Habitacion de id: 205 de numero: 205 de piso: Piso 2 de tipo: 1 de estado: 1 insertada correctamente
+Habitacion de id: 301 de numero: 301 de piso: Piso 3 de tipo: 1 de estado: 0 insertada correctamente
+------------------ chunches hospitalizaciones
+Error: El paciente con ID 1001 no existe.
+Error: El paciente con ID 1038 no existe.
+Error: El paciente con ID 1010 no existe.
+Error: El paciente con ID 1022 no existe.
+Error: El paciente con ID 1021 no existe.
+Error: El paciente con ID 1016 no existe.
+Error: El paciente con ID 1050 no existe.
+Error: El paciente con ID 1048 no existe.
+Hospitalizacion ID: 9 insertada correctamente.
+Error: El paciente con ID 1034 no existe.
+Error: El paciente con ID 1042 no existe.
+Error: El paciente con ID 1040 no existe.
+------------------ chunches diagnosticos
+Diagnostico de nombre: Hipertensión arterial con codigo: D001 insertado correctamente
+Diagnostico de nombre: Diabetes mellitus con codigo: D002 insertado correctamente
+Diagnostico de nombre: Gripe con codigo: D003 insertado correctamente
+Diagnostico de nombre: Gastritis con codigo: D004 insertado correctamente
+Diagnostico de nombre: Dermatitis con codigo: D005 insertado correctamente
+Diagnostico de nombre: Migraña con codigo: D006 insertado correctamente
+Diagnostico de nombre: Asma con codigo: D007 insertado correctamente
+Diagnostico de nombre: Infección respiratoria con codigo: D008 insertado correctamente
+------------------ chunches tratamientos
+Tratamiento de nombre: Antibioticoterapia con codigo: 1 insertado correctamente
+Tratamiento de nombre: Fisioterapia con codigo: 2 insertado correctamente
+Tratamiento de nombre: Hidratación IV con codigo: 3 insertado correctamente
+Tratamiento de nombre: Cirugía menor con codigo: 4 insertado correctamente
+Tratamiento de nombre: Quimioterapia con codigo: 5 insertado correctamente
+Tratamiento de nombre: Oxigenoterapia con codigo: 6 insertado correctamente
+Tratamiento de nombre: Analgesia con codigo: 7 insertado correctamente
+Tratamiento de nombre: Terapia respiratoria con codigo: 8 insertado correctamente
+
+ ===== MENU PRINCIPAL ===== 
+1. Insertar
+2. Buscar
+3. Modificar
+4. Reportes
+5. Salir
+
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Nombre de pais:Pais de nombre: Costa Rica con codigo: 100 insertado correctamente
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Nombre de pais:No se pudo insertar el pais o este ya existe 
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais de la ciudad: Codigo de ciudad: Nombre de ciudad:Ciudad de nombre: San Jose con codigo: 101 con codigo de pais: 100 insertado correctamente
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais de la ciudad: Codigo de ciudad: Nombre de ciudad:No se pudo insertar la ciudad ya que ya existe una ciudad de codigo: 101 en el pais de codigo : 100
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais de la ciudad: Codigo de ciudad: Nombre de ciudad: No existe ningun pais de codigo: 999
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: Nombre: Descripcion: Especialidad de nombre: Cardiologia con codigo: 200 insertada correctamente
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: Nombre: Descripcion: No se pudo insertar la especialidad ya que ya existe una especialidad de codigo: 200
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de diagnostico: Nombre de diagnostico:Descripcion de diagnostico:Diagnostico de nombre: Gripe con codigo: D01 insertado correctamente
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de diagnostico: Nombre de diagnostico:Descripcion de diagnostico:No se pudo insertar el diagnostico ya que ya existe un diagnostico de codigo: D01
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de tratamiento: Nombre de tratamiento:Descripcion de tratamiento:Costo de tratamiento:Tratamiento de nombre: Acetaminofen con codigo: 300 insertado correctamente
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de tratamiento: Nombre de tratamiento:Descripcion de tratamiento:Costo de tratamiento:No se pudo insertar el tratamiento ya que ya existe un tratamiento de codigo: 300
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id habitacion: Numero: Piso: Tipo (1 individual, 2 compartida, 3 UCI): Estado (0 disponible, 1 ocupada): Habitacion de id: 400 de numero: 1 de piso: 1 de tipo: 1 de estado: 0 insertada correctamente
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id habitacion: Numero: Piso: Tipo (1 individual, 2 compartida, 3 UCI): Estado (0 disponible, 1 ocupada): No se pudo insertar la habitacion porque el id: 400 ya existe
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Nombre: Fecha de nacimiento (aaaa-mm-dd): Telefono: Codigo de pais: Codigo de ciudad: Correo: Paciente de nombre: Juan Perez con id: 500 insertado correctamente
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Nombre: Fecha de nacimiento (aaaa-mm-dd): Telefono: Codigo de pais: Codigo de ciudad: Correo: No se pudo insertar el paciente ya que ya existe un paciente de id: 500
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Nombre: Fecha de nacimiento (aaaa-mm-dd): Telefono: Codigo de pais: Codigo de ciudad: Correo: No existe ninguna ciudad de codigo: 999 en el pais de codigo: 999
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id medico: Nombre: Telefono: Correo: Id especialidad: Medico de nombre: Dr. House con id: 600 insertado correctamente
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id medico: Nombre: Telefono: Correo: Id especialidad: No se pudo insertar el medico ya que ya existe un medico de id: 600
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id medico: Nombre: Telefono: Correo: Id especialidad: No existe ninguna especialidad de codigo: 999
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id hospitalizacion: Id paciente: Id habitacion: Id medico: Fecha de ingreso (aaaa-mm-dd): Fecha de salida (0000 si no tiene): Motivo: Hospitalizacion ID: 700 insertada correctamente.
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id hospitalizacion: Id paciente: Id habitacion: Id medico: Fecha de ingreso (aaaa-mm-dd): Fecha de salida (0000 si no tiene): Motivo: Error: Ya existe una hospitalizacion con el ID 700.
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id hospitalizacion: Id paciente: Id habitacion: Id medico: Fecha de ingreso (aaaa-mm-dd): Fecha de salida (0000 si no tiene): Motivo: Error: El paciente con ID 999 no existe.
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id cita: Id paciente: Id medico: Id especialidad: Fecha (aaaa-mm-dd): Hora (hh:mm): Motivo: Estado (0 pendiente, 1 confirmada): Cita de id: 800 de id paciente: 500 de id medico: 600 de id especialidad: 200 de fecha: 2026-10-10 de motivo: Control de estado: 0 insertada correctamente
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id cita: Id paciente: Id medico: Id especialidad: Fecha (aaaa-mm-dd): Hora (hh:mm): Motivo: Estado (0 pendiente, 1 confirmada): No se pudo insertar la cita porque el id: 800 ya existe
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id cita: Id paciente: Id medico: Id especialidad: Fecha (aaaa-mm-dd): Hora (hh:mm): Motivo: Estado (0 pendiente, 1 confirmada):  No existe ningun paciente de id: 999
+
+ ===== OPCIONES DE INSERTAR =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Volviendo al menu principal 
+
+ ===== MENU PRINCIPAL ===== 
+1. Insertar
+2. Buscar
+3. Modificar
+4. Reportes
+5. Salir
+
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Pais encontrado
+Codigo: 100
+Nombre: Costa Rica
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: No se pudo encontrar ese pais
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Codigo de ciudad: Ciudad encontrada
+Codigo de pais: 100
+Codigo de ciudad: 101
+Nombre: San Jose
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Codigo de ciudad: No existe ningun pais de codigo: 999
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Codigo de ciudad: Id paciente: Paciente encontrado
+Id de paciente: 500
+Nombre: Juan Perez
+Fecha de nacimiento: 2000-01-01
+Telefono: 88888888
+Codigo de pais: 100
+Codigo de ciudad: 101
+Correo: juan@test.com
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Codigo de ciudad: Id paciente: No existe ninguna ciudad de codigo: 999 en el pais de codigo: 999
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: Id medico: Medico encontrado
+Id de medico: 600
+Nombre: Dr. House
+Telefono: 99999999
+Correo: dr@test.com
+Id de especialidad: 200
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: Id medico: No existe ninguna especialidad de codigo: 999
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: Especialidad encontrada
+Id de especialidad: 200
+Nombre: Cardiologia
+Descripcion: Corazon
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: No existe ninguna especialidad de codigo: 999
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Id medico: Id cita: Cita encontrada
+Id de cita: 800
+Id de paciente: 500
+Id de medico: 600
+Id de especialidad: 200
+Fecha: 2026-10-10
+Hora: 10:00
+Motivo: Control
+Estado: 0
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Id medico: Id cita:  No existe ningun paciente de id: 999
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id habitacion: Habitacion encontrada
+Id: 400
+Numero: 1
+Piso: 1
+Tipo: Individual
+Estado: Disponible
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id habitacion: No existe una habitacion de id: 999
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Id habitacion: Id hospitalizacion: ==== Hospitalizacion Encontrada ====
+ID Hosp: 700
+Paciente ID: 500
+Habitacion ID: 400
+Medico ID: 600
+Ingreso: 2026-10-01
+Salida: 2026-10-05
+Motivo: Dolor
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Id habitacion: Id hospitalizacion: Error: El paciente 999 no existe.
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de diagnostico: Diagnostico encontrado
+Id de diagnostico: D01
+Nombre: Gripe
+Descripcion: Fiebre
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de diagnostico: No existe ningun diagnostico de codigo: D99
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de tratamiento: Tratamiento encontrado
+Id de tratamiento: 300
+Nombre: Acetaminofen
+Descripcion: Pastilla
+Costo: 1500
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de tratamiento: No existe ningun tratamiento de codigo: 999
+===== Buscar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Volviendo al menu principal
+
+ ===== MENU PRINCIPAL ===== 
+1. Insertar
+2. Buscar
+3. Modificar
+4. Reportes
+5. Salir
+
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Nuevo nombre: Pais de codigo 100 modificado, antes se llamaba Costa Rica, ahora se llama Costa Rica Modificada
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Nuevo nombre: No se pudo realizar esa modificacion ya que el pais de codigo 999 no existe
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Codigo de ciudad: Nuevo nombre: Ciudad de codigo 101 en pais de codigo 100 modificada, antes se llamaba San Jose, ahora se llama San Jose Modificada
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Codigo de ciudad: Nuevo nombre: No se pudo realizar esa modificacion ya que el pais de codigo 999 no existe
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Codigo de ciudad: Id de paciente: Nuevo telefono: Nuevo correo: Paciente de id: 500 modificado correctamente
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Codigo de pais: Codigo de ciudad: Id de paciente: Nuevo telefono: Nuevo correo: No existe ninguna ciudad de codigo: 999 en el pais de codigo: 999
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: Id medico: Nuevo telefono: Nuevo correo: Medico de id: 600 modificado correctamente
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: Id medico: Nuevo telefono: Nuevo correo: No existe ninguna especialidad de codigo: 999
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: Nueva descripcion: Especialidad de codigo 200 modificada, nueva descripcion: Corazon Modificado
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id especialidad: Nueva descripcion: No existe ninguna especialidad de codigo: 999
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Id medico: Id cita: Nuevo motivo: Nuevo estado: Cita de id 800 modificada, su nuevo motivo es: Control Modificado y su nuevo estado: 1
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Id medico: Id cita: Nuevo motivo: Nuevo estado:  No existe ningun paciente de id: 999
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id habitacion: Nuevo estado: Habitacion de id 400 modificado, antes estaba en estado Disponible, ahora esta en estado Ocupada
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id habitacion: Nuevo estado: No se pudo realizar esa modificacion ya que la habitacion de id 999 no existe
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Id habitacion: Id hospitalizacion: Nuevo motivo: Hospitalizacion 700 modificada, motivo anterior era:Dolor , ahora es:Dolor Modificado
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id paciente: Id habitacion: Id hospitalizacion: Nuevo motivo: Error: El paciente 999 no existe.
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de diagnostico: Nueva descripcion: Diagnostico de id D01 modificado, su nueva descripcion es: Fiebre Modificada
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de diagnostico: Nueva descripcion: No se pudo realizar esa modificacion ya que el diagnostico de id D99 no existe
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de tratamiento: Nuevo nombre: Nueva descripcion: Nuevo costo: Tratamiento de codigo 300 modificado, ahora es: Acetaminofen Mod | Pastilla Modificada | costo 2500
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Id de tratamiento: Nuevo nombre: Nueva descripcion: Nuevo costo: No existe ningun tratamiento de codigo: 999
+===== Modificar =====
+1. Pais
+2. Ciudad
+3. Pacientes
+4. Medicos
+5. Especialidades
+6. Citas
+7. Habitaciones
+8. Hospitalizacion
+9. Diagnostico
+10. Tratamiento
+0. Volver
+Opcion: Volviendo al menu principal
+
+ ===== MENU PRINCIPAL ===== 
+1. Insertar
+2. Buscar
+3. Modificar
+4. Reportes
+5. Salir
+

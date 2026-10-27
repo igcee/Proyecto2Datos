@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\crud_medicos.obj",
+            "outputs": [
+                "x64\\Debug\\crud_medicos.cpp.obj.dt.module.json",
+                "x64\\Debug\\crud_medicos.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
